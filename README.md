@@ -1,6 +1,7 @@
 # Formulario
 <!Doctype html>
-<html lang="en" <head>
+<html lang="en"
+ <head>
 <meta charset="utf-8>" <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta nome="viewport" content="width=device-widh,initial<-scale=1.0">
 <title>FORMULARIO /Hermo</title>
@@ -86,4 +87,4 @@
     </fieldset>
     </form>
     </div>
-</body>l
+</body>
