@@ -3,7 +3,7 @@
 <html lang="en" <head>
 <meta charset="utf-8>" <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta nome="viewport" content="width=device-widh,initial<-scale=1.0">
-<title>FORMULARIO /Hermo76</title>
+<title>FORMULARIO /Hermo</title>
 </head>
 <style>
     body {
@@ -13,12 +13,12 @@
     
     .box {
         position: absolute;
-        top: 0,5%;
-        left: 0,5%;
-        transform: translate(-0,5%, -0,5%);
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
         background-color: rgb(20, 147, 220) padding: 15px;
-        border-radius: 0,5px;
-        width: 0,5%;
+        border-radius: 50px;
+        width: 50%;
     }
     
     fieldset {
